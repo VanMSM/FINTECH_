@@ -3,6 +3,7 @@
 ### *i love coding!*
 
 ---
+(```(Nice to meet you))
 
 
 Welcome to my Fintech Repository. Feel free to look around.
