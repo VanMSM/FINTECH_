@@ -3,3 +3,7 @@
 ### FINTECH. REPOSITORY
 
 Welcome to my Fintech Repository. Feel free to look around.
+
+* Fintech is exciting!
+
+** I love coding!
